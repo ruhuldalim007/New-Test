@@ -1,0 +1,13 @@
+
+.home{
+	min-height: 956px;
+	width: 80%;
+	background-color: white;
+	padding: 10%;
+
+}
+.header{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+}
